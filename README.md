@@ -98,9 +98,9 @@ Google Earth Engine (JavaScript API), QGIS.
 
 ## Code
 
-- [`01_roi.js`](01_roi.js): definition of the study area
+- [`02_cambio_vegetacion.js`](02_cambio_vegetacion.js): Earth Engine script (composites, indices, change detection, area calculation)
 
-- [`02_cambio_vegetacion.js`](02_cambio_vegetacion.js): composites, indices, change detection and area calculation
+- [`roi_muthurajawela.zip`](roi_muthurajawela.zip): study area boundary (shapefile)
 
 
 
