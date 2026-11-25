@@ -2,7 +2,7 @@
 
 
 
-![Vegetation loss map](maps/mapa_muthurajawela_2019_2025.png)
+![Vegetation loss map](mapa_muthurajawela_2019_2025.png)
 
 
 
@@ -97,6 +97,8 @@ Google Earth Engine (JavaScript API), QGIS.
 
 
 ## Code
+
+- [`01_roi.js`](01_roi.js): definition of the study area
 
 - [`02_cambio_vegetacion.js`](02_cambio_vegetacion.js): Earth Engine script (composites, indices, change detection, area calculation)
 
