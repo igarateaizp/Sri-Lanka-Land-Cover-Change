@@ -70,7 +70,31 @@ Rectangle of about 412 km² (79.80-79.94°E, 6.98-7.22°N) covering the Negombo 
 
 - Visually, the loss appears as many small patches along the urban fringe, with clusters near the airport and the industrial areas, and little loss in the core of the wetland.
 
-- [Add 2-3 before/after examples here, with location and what changed.]
+
+### Before/after examples
+
+The three examples below are among the largest patches detected. Images are the cloud-masked Sentinel-2 median composites (January-March) used in the analysis. Land-cover interpretation is based on visual inspection only, without field verification. As these are the largest patches, they are not representative of the many smaller ones.
+
+#### Example 1: Broadcasting facility (7.099°N, 79.904°E), 8.3 ha
+Vegetated land in 2019 has been replaced by a large built-up site in 2025. The basemap labels it as Sri Lanka Broadcasting Corporation. This is the largest patch detected in the study area.
+
+| 2019 | 2025 |
+|---|---|
+| ![Example 1, 2019](examples/example1_2019.png) | ![Example 1, 2025](examples/example1_2025.png) |
+
+#### Example 2: Airport surroundings (7.172°N, 79.885°E), 2.7 ha
+Vegetated land in 2019 near the airport terminal has been replaced by new airport-related facilities in 2025.
+
+| 2019 | 2025 |
+|---|---|
+| ![Example 2, 2019](examples/example2_2019.png) | ![Example 2, 2025](examples/example2_2025.png) |
+
+#### Example 3: Tourism and commercial development (7.208°N, 79.912°E), 5.9 ha
+Vegetated land in 2019 has been replaced by what appear to be tourist accommodation complexes and small commercial buildings in 2025.
+
+| 2019 | 2025 |
+|---|---|
+| ![Example 3, 2019](examples/example3_2019.png) | ![Example 3, 2025](examples/example3_2025.png) |
 
 
 
@@ -108,5 +132,4 @@ Google Earth Engine (JavaScript API), QGIS.
 
 ## Author
 
-[Iñigo Garate]. [www.linkedin.com/in/inigogaratee]
-
+Iñigo Garate · [LinkedIn](https://www.linkedin.com/in/inigogaratee)
